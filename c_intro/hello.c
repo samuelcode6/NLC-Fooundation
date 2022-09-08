@@ -8,6 +8,7 @@
 int main (void)
 {
     printf("Hello world!\n");
+    print
     printf("%i\n", AGE);
     return (0);
 }

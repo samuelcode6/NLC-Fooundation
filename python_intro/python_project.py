@@ -12,7 +12,6 @@ b_float = round(a_float,2)
 
 #string format
 str = "{str}".format (str = "Nervelabs Innovative")
-print("{}".format(str))
 
 #string concatenation
 str1 = "Nervelabs "

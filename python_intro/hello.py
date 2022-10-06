@@ -27,8 +27,3 @@ formatted_string2 = 'Good Evening, {}'.format(name)
 formatted_string3 ='Good Evening, %s' %name
 
 print(single_quoted, double_quoted, raw_string, formatted_string, formatted_string2, formatted_string3, sep='\n')
-
-
-
-
-

@@ -1,3 +1,4 @@
 #!/bin/usr/python3
-str = "{str}".format (str = "Nervelabs Innovative")
-print('{}'.format(str))
+str ="Nervelabs Innovative"
+print("{}".format(str) * 3)
+print(str[0:9])

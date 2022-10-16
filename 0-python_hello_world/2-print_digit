@@ -1,5 +1,3 @@
 #!/usr/bin/python3
-'''python
-'''
-digit = "{number},{sname}".format (number = 98, sname = "Battery street")
-print('{}'.format(digit))
+number = 98
+print('{:d} Battery Street'.format(number))
